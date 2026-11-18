@@ -53,4 +53,4 @@ python scraper.py
 
 When prompted, type `N` for a Normal full scrape, or `P` to load the filters from your `presets.txt` file.
 
-*(Disclaimer: This is a personal portfolio project. It is not affiliated with, maintained, or endorsed by UC Davis or UC Davis Student Housing and Dining Services.)
+*(Disclaimer: This is a personal portfolio project. It is not affiliated with, maintained, or endorsed by UC Davis or UC Davis Student Housing and Dining Services.)*
