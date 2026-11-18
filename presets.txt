@@ -1,0 +1,2 @@
+meals=breakfast,dinner
+zones=yellow,green
